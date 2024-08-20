@@ -27,6 +27,7 @@ This project involves applying Python and SQLAlchemy for basic climate analysis 
 **Most Active Station Temperature Analysis**
 
 | Most Active Station: USC00519281 | Data |  
+| ------------- |:-------------:|
 | Lowest Temperature | 54.00 F |
 | Highest Temperature | 85.00 F|
 | Average Temperature | 71.66 F |
@@ -35,7 +36,7 @@ This project involves applying Python and SQLAlchemy for basic climate analysis 
  
  ## Climate App 
 
-API Static Routes:
+API Static Routes
 * Precipitation route
 * Stations route
 * Tobs route (temperature observation data)
