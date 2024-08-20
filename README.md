@@ -1,6 +1,6 @@
-# Step-by-Step Guide to Analyzing Honolulu's Climate for Your Dream Vacation
+# Analyzing Honolulu's Climate for Your Dream Vacation
 
-## Overview of the Analysis
+## Project Overview
 
 This project involves applying Python and SQLAlchemy for basic climate analysis and data exploration of a climate database. The initial task required utilizing SQLAlchemy ORM queries to conduct a thorough analysis, with the support of tools such as Pandas and Matplotlib to uncover and visualize key insights from the data. Following this analysis, the project transitioned to the development of a Flask API, which was designed based on the queries created during the analysis phase. This API was developed to provide streamlined access to the climate data, enhancing its usability for further applications. This project integrated data analysis with API development, offering a comprehensive approach to managing and utilizing climate data.
 
