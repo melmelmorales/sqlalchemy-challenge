@@ -8,6 +8,8 @@ This project involves applying Python and SQLAlchemy for basic climate analysis 
 
 **Precipitation Analysis**
 
+![Precipitation Graph](SurfsUp/Images/Precipitatoin_Data.png)
+
 **Station Analysis**
 
 | Station | Count |
@@ -22,11 +24,14 @@ This project involves applying Python and SQLAlchemy for basic climate analysis 
 | USC00517948 | 1372 | 
 | USC00518838 | 511 | 
 
+**Most Active Station Temperature Analysis**
 
 | Most Active Station: USC00519281 | Data |  
 | Lowest Temperature | 54.00 F |
 | Highest Temperature | 85.00 F|
 | Average Temperature | 71.66 F |
+
+![tobs Graph](SurfsUp/Images/tobs.png)
  
  ## Climate App 
 
